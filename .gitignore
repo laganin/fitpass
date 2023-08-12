@@ -1,6 +1,5 @@
 *.docx
 *.xml
-*.json
 Dockerfile
 *.deb
 *.rpm
